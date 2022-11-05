@@ -8,6 +8,7 @@ float mediaValores(int n, float mat[][100]){ // Exercicio 2
 			soma += mat[i][j];
 		}
 	}
+
 	return (soma / (n*n));
 }
 
