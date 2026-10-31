@@ -1,0 +1,7 @@
+4
+Uma palavra e meia palavra sao 1.5 palavras!!!
+1 palavra e 2 palavras = 3 palavras, hihi...
+Qualquer linha é válida
+Vamos contar palavras?
+Vamos sim. Voce comeca?
+Claro!!!

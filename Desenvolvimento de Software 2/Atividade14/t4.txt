@@ -1,0 +1,19 @@
+5
+Voce poderia inverter esta
+frase questionMark
+E esta frase?
+Voce poderia inverte-la
+Sim, eu poderia
+Sim sim
+Duas galinhas botam
+ovos
+a aaaAaa AaaaA
+Geeks for Geeks
+Stack and overflow
+2 mais 2 são quatro
+A Terra é...
+Tente outra vez?
+Duas galinhas botam ovos
+a aAa aAaAa AAAA
+2 galinhas botam ovos
+a aAa aAaAa AAAA.

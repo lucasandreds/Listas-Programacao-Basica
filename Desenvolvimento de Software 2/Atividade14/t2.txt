@@ -1,0 +1,15 @@
+3
+Sao Paulo 0 GalaoDasMacas 0
+Sao_Paulo 0 Galao 0
+America 2000 Atletico 1
+Cruzeiro 42 Atletico 3
+VilaChurupitaFC 0 GalaoDasMacas 0
+America 20 Atletico 1
+Cruzeiro 0 Atletico 1
+OficialFC 0 Curitiba 0
+Sao_Paulo 0 Galo 0
+Atletico Mineiro 1
+Cruzeiro 1
+VilaChurupitaFC 2 VasquitoVelasquez 1
+TimedoArmandinho 0 Vampiritos 0
+Estados Unidos 1 Brasil 3
